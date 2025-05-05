@@ -1,12 +1,25 @@
-# React + Vite
+# 🧩 Pokémon Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive web application that displays the original 151 Pokémon using the [PokéAPI](https://pokeapi.co/). Built with **React.js**, styled using **Tailwind CSS**, and powered by **Axios** for API requests. Includes real-time search functionality to filter Pokémon by name.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Check it out here!](https://velvety-sunflower-465fa9.netlify.app/)
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – UI development
+- **Axios** – For making API requests
+- **Tailwind CSS** – Utility-first CSS framework
+- **PokéAPI** – Public API to fetch Pokémon data
+
+## 📸 Features
+
+- 🎴 Fetches and displays the first 151 Pokémon
+- 🔍 Real-time search bar to filter Pokémon by name
+- 🌈 Responsive design using Tailwind CSS
+- 💡 Component-based architecture (`PokemonCard`, `SearchBar`)
+
+## 📁 Folder Structure
+
+
